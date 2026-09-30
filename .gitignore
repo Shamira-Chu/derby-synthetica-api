@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Variáveis de ambiente (FRONTEND_URL entra por aqui no deploy)
+.env
+.env.*
+
+# Ferramentas
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Instruções de sessão de IA e configuração de agente. São ferramenta de quem
+# escreve o código, não parte da aplicação: quem clona o repositório para rodar
+# a API não precisa de nenhum destes arquivos.
+CLAUDE.md
+.claude/
+.cursor/
+.aider*
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*~
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log

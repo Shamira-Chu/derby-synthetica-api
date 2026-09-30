@@ -1,0 +1,459 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "slug": "pista-aberta",
+      "nome": "Pista Aberta",
+      "descricao_curta": "Tática, leitura de pack e o ofício de decidir em meio segundo dentro da pista.",
+      "trilha": "velocidade"
+    },
+    {
+      "id": 2,
+      "slug": "equipamento",
+      "nome": "Equipamento",
+      "descricao_curta": "Patim, roda, proteção e as inovações que mudaram o que se calça para entrar na pista.",
+      "trilha": "velocidade"
+    },
+    {
+      "id": 3,
+      "slug": "regras",
+      "nome": "Regras",
+      "descricao_curta": "Arbitragem, penalidade e as decisões de assembleia que definem o que é contato legal.",
+      "trilha": "velocidade"
+    },
+    {
+      "id": 4,
+      "slug": "enquadramento",
+      "nome": "Enquadramento",
+      "descricao_curta": "Como o derby é filmado, transmitido e narrado, e o que a câmera insiste em perder.",
+      "trilha": "expressao"
+    },
+    {
+      "id": 5,
+      "slug": "batida",
+      "nome": "Batida",
+      "descricao_curta": "O som da arena: DJ de pista, levada, torcida e a trilha que dita o ritmo do jam.",
+      "trilha": "expressao"
+    },
+    {
+      "id": 6,
+      "slug": "escrita",
+      "nome": "Escrita",
+      "descricao_curta": "Derby names, zines, vocabulário de pista e a língua que o esporte não deixou morrer.",
+      "trilha": "expressao"
+    }
+  ],
+  "conteudos": [
+    {
+      "id": 1,
+      "slug": "a-nova-geometria-do-pack-vinte-anos-de-tatica",
+      "titulo": "A Nova Geometria do Pack: Vinte Anos de Tática em Pista Plana",
+      "subtitulo": "O tripé não morreu. Ele ficou mais rápido de montar, mais barato de desmontar, e a disputa migrou para o meio segundo antes de ele existir.",
+      "categoria_id": 1,
+      "resumo": "A formação que definiu o derby das primeiras décadas continua em pista, mas o jogo em volta dela mudou de velocidade. O que uma bloqueadora precisa saber hoje e não precisava saber há vinte anos.",
+      "tempo_leitura": "7 min",
+      "data": "14 Março 2047",
+      "autor": "Valéria \"Vector Shift\" Amaral",
+      "autor_cargo": "Treinadora e estrategista, Liga Sudeste",
+      "destaque": true,
+      "selo_editorial": "ESSENCIAL",
+      "arquetipo_grafico": "pack",
+      "aprendizados": [
+        "O tripé continua sendo a estrutura base da defesa, mas o tempo de montagem virou o diferencial competitivo.",
+        "A leitura de pack saiu do instinto solitário da capitã e virou linguagem combinada, com chamadas curtas e padronizadas.",
+        "Overlay de transmissão mudou o treino, não o jogo: a decisão em pista continua sendo tomada por quem está lá, em menos de um segundo."
+      ],
+      "secoes": [
+        {
+          "titulo": "O que sobreviveu de vinte anos atrás",
+          "texto": "Quem viu derby na virada da década de 2020 reconhece a pista de hoje sem esforço. A defesa continua se organizando em torno do tripé: duas bloqueadoras travando quadril de costas para o sentido da corrida, sustentadas por uma terceira de frente para a jammer adversária, que enxerga o que as outras duas não podem enxergar e comanda o movimento pelo contato. A física não mudou, a regra de contato não mudou, e o problema continua o mesmo: fechar a linha interna sem abrir a externa. O que mudou foi tudo em volta desse desenho.",
+          "destaque": "Nenhuma formação nova substituiu o tripé. O que aconteceu foi o relógio dele encurtar."
+        },
+        {
+          "titulo": "O meio segundo antes da parede existir",
+          "texto": "A parede montada é a parte fácil de entender e a parte menos disputada do jogo moderno. A disputa real acontece na remontagem. Quando o pack se desfaz, e ele se desfaz o tempo todo, existe um intervalo curto em que ninguém pode bloquear e todo mundo precisa se reagrupar. Vinte anos atrás esse intervalo era um respiro. Hoje é o alvo: a jammer treina para chegar exatamente ali, e a defesa treina para que o intervalo dure o mínimo possível. Time que monta parede bem e remonta devagar perde para time que monta parede mediana e remonta rápido.",
+          "citacao": "Ninguém mais ganha jam quebrando uma parede. Ganha-se chegando antes de ela terminar de nascer."
+        },
+        {
+          "titulo": "A sala de vídeo e o banco",
+          "texto": "Aqui entra a parte que separa o derby de hoje do de antigamente, e ela não está na pista, está no treino. A transmissão passou a marcar pack, distância e posição relativa sobre a imagem, e esse mesmo recurso virou ferramenta de sala de vídeo. Uma capitã hoje revê o próprio jam vendo desenhada a estrutura que ela sentiu pelo corpo, e isso encurtou o aprendizado de leitura de pista de temporadas para semanas. A consequência menos comentada é boa: as ligas pequenas, que nunca tiveram comissão técnica grande, ganharam acesso ao mesmo material de estudo que as ligas de calendário fechado.",
+          "destaque": "O overlay não ensina a jogar. Ele encurta o tempo entre sentir uma coisa na pista e conseguir dar nome a ela."
+        },
+        {
+          "titulo": "O que o overlay não vê",
+          "texto": "Vale dizer o que fica de fora, porque é o que decide jam. A marcação na tela mostra onde os corpos estão e não mostra como eles estão: peso mal distribuído, quadril já entregue, tornozelo que vai ceder na próxima investida, bloqueadora que está de pé mas já não tem base. Isso se lê pelo contato, e contato não aparece em desenho nenhum. Por isso a formação de bloqueadora continua sendo feita empurrando gente de verdade, e não olhando tela. A tela explica depois o que o corpo entendeu antes."
+        }
+      ],
+      "slugs_relacionados": [
+        "ler-o-jogo-sem-a-tela-o-oficio-da-capita",
+        "o-olho-nunca-pisca-arbitragem-assistida",
+        "a-roda-que-sente-o-piso"
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "ler-o-jogo-sem-a-tela-o-oficio-da-capita",
+      "titulo": "Ler o Jogo Sem a Tela: O Ofício que a Capitã Não Terceirizou",
+      "subtitulo": "O banco tem painel, telemetria e sugestão de formação. A capitã tem dois segundos e quatro corpos. Só uma das duas está jogando.",
+      "categoria_id": 1,
+      "resumo": "A análise de pista chegou ao banco e ficou. A decisão dentro do jam não foi com ela, e essa fronteira não é acidente: foi escrita na regra, depois de briga.",
+      "tempo_leitura": "6 min",
+      "data": "28 Março 2047",
+      "autor": "Helena \"Apex Phantom\" Dourado",
+      "autor_cargo": "Capitã veterana e colunista de pista",
+      "destaque": false,
+      "selo_editorial": "OFÍCIO",
+      "arquetipo_grafico": "star",
+      "aprendizados": [
+        "Durante o jam, quem decide é quem está na pista: instrução de banco em tempo real é penalizada, e isso foi decisão de assembleia, não limitação técnica.",
+        "A comunicação de pista virou vocabulário curto e padronizado, porque grito longo não atravessa arena cheia.",
+        "Análise de banco é excelente entre jams e inútil dentro deles: o intervalo de decisão em pista é menor que o de qualquer leitura externa."
+      ],
+      "secoes": [
+        {
+          "titulo": "Dois segundos",
+          "texto": "É o tempo que uma capitã tem quando a parede abre. Nesse intervalo ela precisa decidir se recua para fechar a linha interna, se manda a colega mais próxima segurar sozinha, se assume a marcação da jammer e entrega o resto, ou se aceita a passagem e economiza corpo para o próximo ciclo. Não existe consulta possível nesse tempo. Existe uma decisão, tomada por quem está com o quadril encostado no problema, e é por isso que esse ofício não foi terceirizado para tela nenhuma."
+        },
+        {
+          "titulo": "A regra que manteve a decisão em pista",
+          "texto": "Isso não sobreviveu por romantismo. Quando a análise em tempo real ficou barata, algumas ligas testaram passar instrução do banco durante o jam, e o efeito foi imediato: o jogo ficou mais lento, mais uniforme e visivelmente menos interessante, porque cinco pessoas na pista viraram executoras de uma decisão tomada fora dela. A discussão foi longa e terminou em assembleia, como quase tudo no derby termina. Instrução de banco durante o jam é penalizada. Entre jams, vale tudo: painel, vídeo, telemetria, desenho no chão.",
+          "citacao": "Não foi a tecnologia que perdeu essa. Foi o público que bocejou, e a assembleia ouviu."
+        },
+        {
+          "titulo": "Falar pouco e ser entendida",
+          "texto": "O que mudou de verdade na comunicação foi o vocabulário. Arena cheia, som alto e capacete na cabeça não permitem frase. Permitem sílaba. As ligas foram convergindo para conjuntos pequenos de chamadas, quase todas de uma palavra, que dizem simultaneamente o que fazer e com quem: fechar, soltar, trocar, sobe, minha. Quem chega de fora acha pobre. Quem joga sabe que a economia é o recurso: chamada de três palavras chega tarde, e chegar tarde no derby é o mesmo que não chegar."
+        },
+        {
+          "titulo": "O que o banco faz bem",
+          "texto": "Nada disso diminui o banco, só o coloca no lugar certo. Entre jams, a comissão técnica tem trinta segundos para dizer uma coisa útil, e é ali que a análise paga. Qual jammer adversária está com a base cansada, qual bloqueadora nossa está a uma penalidade de sair, qual linha elas estão repetindo há três jams. Informação assim não cabe dentro do jam e cabe perfeitamente no intervalo. O melhor banco de 2047 não é o que fala mais, é o que escolhe a única frase que a pista consegue usar."
+        }
+      ],
+      "slugs_relacionados": [
+        "a-nova-geometria-do-pack-vinte-anos-de-tatica",
+        "o-olho-nunca-pisca-arbitragem-assistida",
+        "oito-cameras-e-um-corpo"
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "a-roda-que-sente-o-piso",
+      "titulo": "A Roda que Sente o Piso: O Fim do Chute no Durômetro",
+      "subtitulo": "Escolher dureza de roda era conversa de vestiário e dedo passado no chão. Agora o patim entrega leitura do piso, e a conversa de vestiário continua igual.",
+      "categoria_id": 2,
+      "resumo": "Telemetria de patim resolveu a parte chata da escolha de equipamento e não resolveu a parte difícil. Um guia sobre aderência, arrasto e por que o julgamento da atleta continua valendo mais que a medição.",
+      "tempo_leitura": "6 min",
+      "data": "11 Abril 2047",
+      "autor": "Camila \"Bearing Surge\" Rossi",
+      "autor_cargo": "Engenheira de materiais e skater",
+      "destaque": false,
+      "selo_editorial": "MATERIAL LAB",
+      "arquetipo_grafico": "bearing",
+      "aprendizados": [
+        "Roda macia agarra e arrasta, roda dura corre e escorrega: a escolha depende do piso, da temperatura da quadra e do que a atleta faz em pista.",
+        "Telemetria de patim mede aderência e perda de velocidade na curva, o que elimina o teste às cegas mas não decide nada sozinho.",
+        "Bloqueadora e jammer podem querer durezas opostas no mesmo ginásio, e isso não é erro de medição, é diferença de função."
+      ],
+      "secoes": [
+        {
+          "titulo": "O problema antigo, que era real",
+          "texto": "Durante décadas, escolher roda foi tentativa e erro caro. A escala de dureza existe, está impressa no uretano e é confiável, mas ela descreve a roda e não descreve o encontro da roda com aquele piso, naquele dia, com aquela pessoa em cima. Ginásio com verniz novo pede uma coisa, galpão de concreto polido pede outra, e a mesma quadra muda de comportamento quando enche de gente e a umidade sobe. O resultado era um armário cheio de jogos de roda quase certos e a conversa de vestiário como única base de dados disponível."
+        },
+        {
+          "titulo": "O que a telemetria resolveu",
+          "texto": "O patim instrumentado atacou exatamente essa parte. Ele registra derrapagem, perda de velocidade na saída da curva e quanto esforço está virando calor em vez de movimento. Em uma sessão de aquecimento, a atleta descobre o que antes levava meia temporada para descobrir, e a liga descobre coisas que ninguém tinha como saber antes: que a quadra tem um trecho consistentemente mais escorregadio, por exemplo, ou que o piso muda de caráter depois do primeiro tempo. Isso é informação de manutenção de pista, e virou pauta de assembleia em vários lugares.",
+          "destaque": "A medição tirou o chute da escolha de roda. Ela não tirou a escolha."
+        },
+        {
+          "titulo": "Por que a decisão continua sendo da atleta",
+          "texto": "O dado diz onde há aderência e onde há arrasto. Ele não diz qual dos dois você quer. Uma bloqueadora de parede vive de parar e sustentar impacto lateral, então ela quase sempre aceita arrasto em troca de mordida no chão. Uma jammer vive de arrancada e de sair da curva com velocidade, então ela paga aderência para ganhar rolamento. As duas no mesmo ginásio, com a mesma leitura de piso na mão, vão escolher durezas diferentes, e as duas vão estar certas. Equipamento no derby nunca foi sobre a melhor peça, foi sobre a peça certa para o que você faz em pista.",
+          "citacao": "Toda vez que alguém me mostra a leitura e pergunta qual roda usar, eu devolvo a pergunta: você vai parar gente ou vai passar por gente?"
+        },
+        {
+          "titulo": "A parte que ninguém automatizou",
+          "texto": "Rolamento sujo, amortecedor cansado, porca de eixo meio solta. Continua sendo diagnóstico de mão, feito girando a roda com o patim de cabeça para baixo e escutando. A telemetria avisa que alguma coisa está consumindo energia, o que já é muito, mas ela não diz o que desmontar. Então a bancada de manutenção no canto do vestiário não saiu de cena, e as ligas que mantêm alguém que saiba mexer ali economizam mais que as que compram peça nova a cada temporada."
+        }
+      ],
+      "slugs_relacionados": [
+        "protecao-sob-medida-e-as-ligas-pequenas",
+        "a-nova-geometria-do-pack-vinte-anos-de-tatica",
+        "ler-o-jogo-sem-a-tela-o-oficio-da-capita"
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "protecao-sob-medida-e-as-ligas-pequenas",
+      "titulo": "Proteção Sob Medida, e o Preço que as Ligas Pequenas Pagaram",
+      "subtitulo": "Joelheira feita para o seu joelho protege melhor que joelheira de prateleira. A pergunta que a assembleia levou anos para responder foi: melhor para quem consegue pagar?",
+      "categoria_id": 2,
+      "resumo": "Proteção ajustada ao corpo reduziu lesão de joelho e criou uma desigualdade nova entre ligas. A resposta que o derby deu para isso é a coisa mais característica do esporte.",
+      "tempo_leitura": "6 min",
+      "data": "25 Abril 2047",
+      "autor": "Rúben \"Truck Solto\" Aguiar",
+      "autor_cargo": "Repórter de equipamento, redação Synthetica",
+      "destaque": false,
+      "selo_editorial": "SEGURANÇA",
+      "arquetipo_grafico": "truck",
+      "aprendizados": [
+        "Proteção ajustada ao corpo funciona porque não desliza no impacto: a placa fica onde deveria estar no momento da queda.",
+        "Equipamento melhor e mais caro cria desigualdade entre ligas, e no derby isso é problema de assembleia, não de mercado.",
+        "O acervo de proteção compartilhada é a resposta que várias ligas deram, e é a tradição de autogestão resolvendo um problema novo."
+      ],
+      "secoes": [
+        {
+          "titulo": "Por que ajuste importa mais que material",
+          "texto": "A queda de joelho no derby é treinada: quem perde o equilíbrio aprende a deslizar sobre os protetores em vez de bater. Isso só funciona se a placa estiver no lugar quando o joelho encontra o chão. Joelheira de prateleira, ajustada com tira, escorrega um pouco no impacto, e esse pouco é a diferença entre deslizar e raspar. Proteção moldada para aquele joelho não escorrega, porque ela não depende de tensão de tira para ficar onde está. O ganho não veio de material exótico, veio de geometria certa.",
+          "destaque": "Não foi a espuma que evoluiu. Foi a peça deixar de brigar com o corpo de quem usa."
+        },
+        {
+          "titulo": "A desigualdade que apareceu junto",
+          "texto": "Equipamento sob medida é mais caro que equipamento de prateleira, e derby nunca foi esporte de gente com dinheiro sobrando. O efeito foi rápido e visível: ligas com patrocínio e calendário fechado passaram a ter elenco inteiro com proteção ajustada, enquanto ligas de galpão continuaram com o que a jogadora conseguiu comprar. Isso não é só questão de conforto. Em esporte de contato, diferença de proteção é diferença de quem pode entrar em pista com segurança, e por extensão diferença de quem pode competir."
+        },
+        {
+          "titulo": "A resposta foi coletiva, como sempre foi",
+          "texto": "O que aconteceu em seguida é a coisa mais reconhecível do derby. Em vez de esperar o preço cair, várias ligas montaram acervo comum: um conjunto de proteção da liga, ajustada em faixas de tamanho em vez de por pessoa, emprestada para quem está começando e para quem não pode comprar. Não é tão bom quanto peça individual, é muito melhor que tira frouxa, e resolveu a porta de entrada, que é onde a lesão mais acontece. A mesma lógica do empréstimo de patim para a primeira semana de treino, aplicada a um problema que ninguém tinha em 2025.",
+          "citacao": "A tradição do derby não é recusar coisa nova. É perguntar quem fica de fora se a coisa nova for só para quem paga."
+        },
+        {
+          "titulo": "O que continua obrigatório, e não mudou",
+          "texto": "Vale lembrar o que nada disso alterou. Ninguém entra em pista sem o conjunto completo: capacete fechado e bem ajustado, protetor bucal, munhequeira com tala, cotoveleira e joelheira. A lista é a mesma de vinte anos atrás, a fiscalização na entrada da pista é a mesma, e a regra segue valendo igual para a atleta de elenco profissional e para quem está na primeira semana. O derby ficou mais caro em cima, e manteve o piso mínimo igual para todo mundo."
+        }
+      ],
+      "slugs_relacionados": [
+        "a-roda-que-sente-o-piso",
+        "derby-names-zines-e-a-lingua-da-pista",
+        "a-nova-geometria-do-pack-vinte-anos-de-tatica"
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "o-olho-nunca-pisca-arbitragem-assistida",
+      "titulo": "O Olho Nunca Pisca: Vinte Anos de Arbitragem Assistida",
+      "subtitulo": "Ela chegou prometendo encerrar a discussão sobre track cut. Encerrou, e abriu outra: quem responde quando o sistema marca o que a arquibancada viu diferente.",
+      "categoria_id": 3,
+      "resumo": "A assistência de arbitragem resolveu o problema que tinha sido criada para resolver e produziu um problema de autoridade que nenhuma câmera resolve. Como o derby dividiu essa conta.",
+      "tempo_leitura": "8 min",
+      "data": "09 Maio 2047",
+      "autor": "Vera \"Penalty Box\" Nogueira",
+      "autor_cargo": "Árbitra-chefe, Liga Sudeste",
+      "destaque": false,
+      "selo_editorial": "MANUAL DE PISTA",
+      "arquetipo_grafico": "star",
+      "aprendizados": [
+        "A assistência é boa no que é geométrico: posição de pista, ordem de passagem, saída e reentrada fora de limite.",
+        "Ela é fraca no que é qualitativo: intenção, imprudência e o grau de força de um contato, que continuam sendo julgamento humano.",
+        "O apito continua na mão de gente, e isso foi decisão de assembleia: sistema sugere, árbitra decide e assina."
+      ],
+      "secoes": [
+        {
+          "titulo": "O problema que ela veio resolver",
+          "texto": "Track cut é a penalidade mais chata de arbitrar no derby. A patinadora sai dos limites da pista e reentra à frente de quem a tirou dali, e para marcar isso corretamente é preciso saber, ao mesmo tempo, quem estava onde, quem saiu por causa de quem e qual era a ordem relativa das jogadoras naquele instante. Tudo isso acontece em uma curva, com corpos se cruzando, e uma árbitra tem um par de olhos e um ponto de vista. Errava-se. Errava-se muito, e o erro decidia jogo."
+        },
+        {
+          "titulo": "O que ela resolveu de fato",
+          "texto": "Nessa categoria de decisão, a assistência foi um ganho que ninguém sério contesta. Posição em pista e ordem de passagem são geometria, e geometria é exatamente o tipo de coisa que se mede bem. A discussão de vestiário sobre track cut mal marcado praticamente desapareceu, e com ela desapareceu uma fonte grande de ressentimento entre ligas. A mesma lógica valeu para passagem fora de limite e para a definição de pack quando as bloqueadoras se espalham: quem está a que distância de quem é pergunta com resposta única.",
+          "destaque": "Onde a pergunta é \"quem estava na frente\", a assistência acertou e liberou a árbitra para olhar o resto."
+        },
+        {
+          "titulo": "O que ela não resolveu, e não vai",
+          "texto": "O resto do caderno de regras não é geometria. Contato com antebraço, bloqueio nas costas, uso de cotovelo, queda provocada: em todos esses casos a regra não pergunta onde o corpo estava, pergunta como aquilo foi feito e com quanta força. Duas jogadas geometricamente idênticas podem ser uma jogada limpa e uma penalidade grave, e a diferença está em coisas que não se medem por posição: se houve tempo de recuar, se a força foi aplicada ou apenas absorvida, se havia controle. Isso é julgamento, e julgamento tem nome e responde por si.",
+          "citacao": "Sistema nenhum sabe a diferença entre uma pessoa que perdeu o equilíbrio e uma pessoa que decidiu perder o equilíbrio em cima de você."
+        },
+        {
+          "titulo": "A briga de 2041",
+          "texto": "Por alguns anos, algumas ligas deixaram a marcação sair direto da assistência, sem confirmação humana. Funcionou no papel e azedou na arquibancada. Penalidade marcada sem ninguém para explicar não tem a quem reclamar, e a reclamação é parte do esporte: capitã tem direito de perguntar, árbitra tem obrigação de responder. O que se perdeu não foi precisão, foi a possibilidade de contestar. A assembleia de 2041 fechou a questão na formulação que vale até hoje: o sistema sugere, a árbitra decide, e quem assina a decisão é a pessoa. Quando as duas discordam, prevalece a pessoa, e o caso é revisto depois com calma."
+        },
+        {
+          "titulo": "O que isso custa, e por que vale",
+          "texto": "A solução é mais lenta que a automática e mais cara que a antiga. Exige árbitra treinada para trabalhar com a sugestão na frente sem virar carimbo dela, o que é uma habilidade nova e que precisa ser ensinada de propósito. Exige também tempo previsto no protocolo para a árbitra discordar sem atrasar o jogo além do aceitável. Nenhuma dessas duas coisas é barata, e as duas foram decididas em assembleia aberta, com voto de atleta. É assim que o derby resolve as coisas desde o começo, e é por isso que a arbitragem daqui continua sendo defensável quando alguém pergunta quem manda na pista."
+        }
+      ],
+      "slugs_relacionados": [
+        "a-nova-geometria-do-pack-vinte-anos-de-tatica",
+        "ler-o-jogo-sem-a-tela-o-oficio-da-capita",
+        "derby-names-zines-e-a-lingua-da-pista"
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "oito-cameras-e-um-corpo",
+      "titulo": "Oito Câmeras e Um Corpo: Como o Derby Aprendeu a Se Filmar",
+      "subtitulo": "Pack é a coisa mais difícil de filmar no esporte: cinco corpos colados, decisão simultânea, e o ponto que importa quase sempre fora do enquadramento.",
+      "categoria_id": 4,
+      "resumo": "Por décadas o derby foi ruim de assistir pela tela, e o problema nunca foi falta de câmera. Era enquadramento. A solução veio de onde ninguém da televisão estava olhando.",
+      "tempo_leitura": "7 min",
+      "data": "23 Maio 2047",
+      "autor": "Lia \"Plano Sequência\" Corvo",
+      "autor_cargo": "Crítica de imagem, redação Synthetica",
+      "destaque": true,
+      "selo_editorial": "ENSAIO",
+      "arquetipo_grafico": "wheel",
+      "aprendizados": [
+        "O plano aberto mostra a pista inteira e esconde o que decide o jam, que é contato de quadril dentro do pack.",
+        "Câmera de capacete resolveu o contato e destruiu a noção de espaço: quem assiste deixa de saber onde a jammer está.",
+        "A gramática que funcionou foi mista, e ela foi inventada nas transmissões amadoras de liga, não nos estúdios."
+      ],
+      "secoes": [
+        {
+          "titulo": "O pecado do plano aberto",
+          "texto": "A primeira reação de qualquer diretor de esporte diante de uma pista oval é subir a câmera e abrir o plano. Faz sentido: a pista inteira cabe no quadro, a jammer aparece, o pack aparece, dá para acompanhar a volta. E é exatamente aí que o derby desaparece. Visto de cima e de longe, o pack parece um amontoado que anda junto, e a disputa que decide o jam, que é quadril contra quadril em um espaço de meio metro, vira um borrão sem informação. O espectador enxerga quem passou e não enxerga por que passou."
+        },
+        {
+          "titulo": "A câmera no capacete e o problema oposto",
+          "texto": "A resposta óbvia foi colocar câmera em cima das atletas, e ela funcionou de um jeito espetacular e inútil. De dentro do pack, o contato finalmente aparece: dá para ver a parede fechando, o ombro chegando, o instante em que a base cede. Também se perde qualquer noção de onde aquilo está acontecendo. Sem referência de pista, o espectador não sabe se a jammer está a dois passos de passar ou saindo pela outra ponta, e a informação mais básica do jogo, quem está pontuando, evapora. Trocou-se um problema por outro.",
+          "citacao": "Plano aberto explica onde. Câmera de capacete explica como. O derby só faz sentido quando você tem os dois na mesma cabeça."
+        },
+        {
+          "titulo": "Quem resolveu foi quem não tinha estúdio",
+          "texto": "A gramática que pegou não nasceu em transmissão grande. Nasceu nas transmissões de liga, feitas por gente da própria comunidade com equipamento modesto, e ela é mais simples do que parece: sustentar um plano médio que acompanha o pack de perto, na altura do quadril, e cortar para o aberto em dois momentos específicos, quando a jammer rompe e quando o jam acaba. O aberto deixa de ser o plano principal e vira o plano de confirmação. Isso é o oposto do manual de televisão esportiva, e é o motivo pelo qual as primeiras transmissões profissionais ficaram piores que as amadoras que elas tentavam substituir."
+        },
+        {
+          "titulo": "O que a tela continua perdendo",
+          "texto": "Mesmo com tudo resolvido, existe um resto que não atravessa. O barulho de quatro rodas de uretano em madeira, o deslocamento de ar quando o pack passa rente à arquibancada, o som seco de um bloqueio bem dado. Isso é informação: quem está na quadra sabe a intensidade de um contato pelo ruído dele, antes de ver o resultado. Nenhuma captação resolveu isso, e a suspeita honesta é que não tem como. Derby transmitido é uma versão boa do jogo. Derby ao vivo é outra coisa, e quem monta a transmissão sabe disso melhor que ninguém."
+        }
+      ],
+      "slugs_relacionados": [
+        "a-locucao-humana-voltou",
+        "o-som-da-arena-a-dj-de-pista",
+        "a-nova-geometria-do-pack-vinte-anos-de-tatica"
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "a-locucao-humana-voltou",
+      "titulo": "A Transmissão que Narra Sozinha, e Por que a Locução Humana Voltou",
+      "subtitulo": "A narração automática acerta o nome, o número e a contagem de volta sem falhar. Ela nunca aprendeu quando calar a boca.",
+      "categoria_id": 4,
+      "resumo": "A narração gerada ganhou a disputa em acessibilidade e perdeu em tudo o que faz alguém gritar no sofá. Hoje as duas convivem, e a divisão de trabalho é mais interessante que a briga.",
+      "tempo_leitura": "6 min",
+      "data": "06 Junho 2047",
+      "autor": "Lia \"Plano Sequência\" Corvo",
+      "autor_cargo": "Crítica de imagem, redação Synthetica",
+      "destaque": false,
+      "selo_editorial": "ENSAIO",
+      "arquetipo_grafico": "track",
+      "aprendizados": [
+        "Narração automática é imbatível em dado objetivo: quem está com a estrela, quem é lead, quantas passagens, quem está no box e por quanto tempo.",
+        "O ganho real dela foi acessibilidade: transmissão narrada em várias línguas e audiodescrição de jam para torcedor cego, que antes simplesmente não existiam.",
+        "A locução humana voltou pelo que a automática não faz: escolher o que não dizer, e esperar o instante certo para dizer o resto."
+      ],
+      "secoes": [
+        {
+          "titulo": "O que ela faz melhor que gente",
+          "texto": "Convém começar pelo elogio, porque ele é grande. Acompanhar derby exige rastrear muita coisa ao mesmo tempo: quem está com a estrela depois de um star pass, quem conquistou o status de lead, quantas passagens legais cada jammer acumulou, quem está no penalty box e quanto tempo falta, se o pack está definido. Narrador humano erra isso, e erra porque é humanamente difícil. A narração automática não erra. Para quem está aprendendo a assistir derby, essa camada de informação limpa e correta foi provavelmente o melhor presente que a transmissão já deu."
+        },
+        {
+          "titulo": "O ganho que ninguém previu",
+          "texto": "O efeito mais importante não foi de qualidade, foi de alcance. Uma vez que a narração passou a ser gerada a partir do que acontece em pista, ela passou a existir em qualquer língua, ao mesmo tempo, para qualquer transmissão, inclusive a de liga pequena que nunca teria orçamento para locução. E abriu a audiodescrição de jam para torcedor cego, que é uma coisa que o derby simplesmente não oferecia antes: descrição contínua de posição, contato e resultado, em vez de silêncio entre placares. Isso não é conveniência, é acesso, e é a razão pela qual ninguém propõe desligar o recurso.",
+          "destaque": "O maior feito da narração automática não foi narrar melhor. Foi narrar para quem nunca teve narração nenhuma."
+        },
+        {
+          "titulo": "O silêncio, que é o ofício",
+          "texto": "E aqui está o que ela não aprendeu. Locução boa de esporte é feita de ausência: o narrador cala quando a arena está fazendo o trabalho, deixa o barulho da quadra ocupar o espaço e volta a falar no momento em que a informação vale mais. A narração gerada preenche. Ela tem sempre um dado correto à disposição e nenhum motivo para não dizê-lo, então ela diz, inclusive em cima do instante em que a arquibancada inteira está de pé. O resultado é uma transmissão informativa e curiosamente plana, em que nada parece mais importante que nada.",
+          "citacao": "Ela nunca deixa um segundo vazio, e é no segundo vazio que o esporte acontece."
+        },
+        {
+          "titulo": "A divisão de trabalho que sobrou",
+          "texto": "O arranjo que se firmou é simples e meio óbvio em retrospecto: a camada de dado é automática, a camada de narrativa é humana. Nome, número, volta, penalidade e tempo aparecem sozinhos, na tela e na trilha de acessibilidade. Quem narra não precisa mais carregar isso e pode fazer o que só gente faz: dizer que esta é a terceira vez que aquela jammer tenta a linha externa, lembrar que as duas capitãs jogaram juntas há oito anos, e ficar quieta quando o ginásio explode. Deu mais trabalho e ficou melhor para os dois lados."
+        }
+      ],
+      "slugs_relacionados": [
+        "oito-cameras-e-um-corpo",
+        "o-som-da-arena-a-dj-de-pista",
+        "o-olho-nunca-pisca-arbitragem-assistida"
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "o-som-da-arena-a-dj-de-pista",
+      "titulo": "O Som da Arena: A DJ de Pista e a Levada que Dita o Jam",
+      "subtitulo": "Trilha que reage ao jogo existe e funciona bem. O problema é que ela acompanha o jam, e DJ boa antecipa.",
+      "categoria_id": 5,
+      "resumo": "O som sempre foi parte do derby, não enfeite. Sobre a levada que segura a arquibancada, a trilha adaptativa que chegou depois e o motivo pelo qual a cabine continua tendo gente dentro.",
+      "tempo_leitura": "6 min",
+      "data": "20 Junho 2047",
+      "autor": "Kaio \"Metrônomo Sujo\" Bastos",
+      "autor_cargo": "Crítico de som, redação Synthetica",
+      "destaque": false,
+      "selo_editorial": "OUVIDO ABSOLUTO",
+      "arquetipo_grafico": "pack",
+      "aprendizados": [
+        "Som de arena no derby nunca foi ambientação: a levada organiza a torcida e a torcida devolve energia para a pista.",
+        "Trilha adaptativa lê o jogo e reage bem, mas reação chega depois, e a função da DJ é chegar antes.",
+        "O repertório continua sendo escolha política da liga, e é por isso que a cabine não foi entregue a um sistema de recomendação."
+      ],
+      "secoes": [
+        {
+          "titulo": "A levada não é enfeite",
+          "texto": "Quem nunca foi a um jogo acha que a música da arena é fundo. Não é. O som no derby cumpre uma função mecânica: ele dá um pulso comum para umas centenas de pessoas em arquibancada, e arquibancada em pulso comum faz barulho junto. Barulho junto muda o que acontece em pista, porque a atleta ouve, e ouvir a arena de pé no momento em que você encosta na parede adversária é diferente de ouvir murmúrio. A DJ de pista trabalha com isso, não com playlist. Ela está administrando a energia de um lugar."
+        },
+        {
+          "titulo": "Antecipar contra reagir",
+          "texto": "A trilha que lê o jogo e responde a ele chegou, ficou boa e resolveu a parte fácil. Ela percebe que a jammer rompeu e sobe a intensidade, percebe o fim do jam e desce. Tudo correto, e um instante atrasado, porque reagir é sempre depois. A DJ boa faz o contrário: ela olha a formação antes do apito, vê que o time da casa entrou com a parede forte e já sobe antes de qualquer coisa acontecer, entregando a arena pronta para o momento em que o momento chega. Essa diferença de meio segundo é a diferença entre trilha sonora e condução.",
+          "destaque": "O sistema acompanha o jam. A DJ prepara o jam. São dois ofícios com o mesmo equipamento."
+        },
+        {
+          "titulo": "Repertório é decisão da liga",
+          "texto": "Tem uma razão menos técnica para a cabine não ter sido automatizada, e ela é a mais decisiva. O que toca na arena diz o que aquela liga é. A herança do derby é de música de garagem, cena local e banda de quem joga ou de quem frequenta, e liga que troca isso por seleção otimizada para engajamento perde exatamente o que faz a arquibancada se sentir em casa. Várias ligas escrevem isso na política interna: percentual mínimo de artista local, veto a determinadas letras, espaço reservado para banda da própria comunidade. Não é curadoria estética, é a mesma autogestão que decide o resto.",
+          "citacao": "Escolher o que toca na arena é escolher quem se reconhece nela. Isso não se delega para um sistema que só sabe o que funcionou ontem."
+        },
+        {
+          "titulo": "Onde o recurso ajudou de verdade",
+          "texto": "Para ser justo com a tecnologia, ela encontrou um lugar útil e ele não é a escolha da música. É a mixagem: manter a fala do locutor inteligível quando a arena está no limite, equalizar um ginásio que troca de acústica quando enche, evitar que o som na quadra fique alto o suficiente para atrapalhar a comunicação de pista. Isso é trabalho chato, contínuo e sensível a erro, e passou a ser feito melhor do que qualquer mesa operada à mão conseguia fazer. A DJ escolhe, o sistema garante que a escolha chegue limpa aos ouvidos certos."
+        }
+      ],
+      "slugs_relacionados": [
+        "oito-cameras-e-um-corpo",
+        "derby-names-zines-e-a-lingua-da-pista",
+        "a-locucao-humana-voltou"
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "derby-names-zines-e-a-lingua-da-pista",
+      "titulo": "Derby Names, Zines e a Língua que o Esporte Não Deixou Morrer",
+      "subtitulo": "Quando o derby profissionalizou, a primeira coisa que o marketing quis aposentar foi o nome de pista. Foi a primeira coisa que a base recusou.",
+      "categoria_id": 6,
+      "resumo": "Alter ego, publicação de galpão e um vocabulário que ninguém de fora entende. A cultura escrita do derby parecia folclore condenado e virou a coisa que sustentou a identidade do esporte no crescimento.",
+      "tempo_leitura": "7 min",
+      "data": "04 Julho 2047",
+      "autor": "Olga \"Margem Larga\" Teixeira",
+      "autor_cargo": "Ensaísta residente, redação Synthetica",
+      "destaque": false,
+      "selo_editorial": "ENSAIO",
+      "arquetipo_grafico": "star",
+      "aprendizados": [
+        "O derby name nunca foi piada interna: é declaração de que quem entra na pista escolhe como vai ser chamada ali.",
+        "A pressão para padronizar nome e identidade visual veio junto com o dinheiro, e foi recusada em assembleia, não em manifesto.",
+        "Zine e publicação de liga sobreviveram porque fazem uma coisa que veículo grande não faz: registrar o que aconteceu no galpão."
+      ],
+      "secoes": [
+        {
+          "titulo": "Escolher o próprio nome",
+          "texto": "A tradição é antiga e continua intacta: quem entra em uma liga escolhe um nome de pista, e é por ele que ela é chamada no treino, na súmula e na arquibancada. A leitura preguiçosa é que isso é brincadeira, referência de trocadilho, coisa de quem não leva o esporte a sério. A leitura correta é outra. O derby cresceu recebendo muita gente que chegou com o corpo, o gênero ou o nome sendo assunto de outras pessoas, e o nome de pista é o ponto do esporte que responde isso: aqui você diz como se chama, e é assim que te chamam. Não é fantasia, é jurisdição sobre si mesma."
+        },
+        {
+          "titulo": "A pressão que veio com o dinheiro",
+          "texto": "Quando o calendário fechou e o patrocínio apareceu, veio também um argumento educado e insistente: nome de pista confunde o público novo, dificulta a narração, atrapalha a venda de camisa. Havia verdade nisso, e a proposta não era absurda. Ela perdeu de todo jeito, e perdeu no lugar em que essas coisas se decidem no derby, que é a assembleia com voto de atleta. O acordo que sobrou é pragmático: nome civil na súmula oficial, nome de pista em tudo o que o público vê. Ninguém teve que abrir mão de nada, e a camisa continua vendendo.",
+          "citacao": "Não foi uma vitória contra a profissionalização. Foi a base explicando ao marketing qual era o produto."
+        },
+        {
+          "titulo": "Zines, ainda",
+          "texto": "A parte que mais surpreende quem olha de fora é a publicação impressa e caseira continuar existindo. Existe, e não é nostalgia. Veículo grande cobre a partida decisiva e o campeonato, e é isso que ele deve fazer. Quem registra a formação de quinze pessoas que treinou no estacionamento por dois anos antes de conseguir um ginásio é a publicação da própria liga, fotocopiada, distribuída na entrada, escrita por alguém que estava lá. Boa parte do que hoje se sabe sobre como o esporte cresceu no Brasil está nesse material, e não em arquivo de imprensa."
+        },
+        {
+          "titulo": "O vocabulário como porta",
+          "texto": "Depois tem a língua. Jammer, pack, lead, tripé, whip, apex jump, goat, star pass: um vocabulário que mistura termo técnico internacional com gíria local e que é, admitidamente, uma barreira de entrada. Já houve tentativa de traduzir tudo e simplificar, e ela morreu sozinha, porque os termos são precisos e a substituição não era. O que funcionou foi ensinar em vez de aplainar: glossário na transmissão, explicação na primeira ida ao ginásio, paciência com quem pergunta. Barreira que se explica deixa de ser barreira e passa a ser a sensação de ter aprendido a entrar."
+        },
+        {
+          "titulo": "Nota de pista",
+          "texto": "Cabe dizer aqui, porque é neste ensaio que a questão aparece. Este portal é uma peça de ficção situada em 2047, e as assinaturas deste acervo são personagens editoriais criados para ele, com nome de pista e cargo inventados. Elas não correspondem a pessoas reais nem aos integrantes do grupo que construiu o Derby Synthetica. O esporte, o vocabulário e as regras descritos existem. O estado de coisas de 2047, as ligas citadas e as decisões de assembleia narradas são especulação, escritas como se o futuro já tivesse acontecido. Quando a assinatura é ficção, a assinatura diz que é ficção."
+        }
+      ],
+      "slugs_relacionados": [
+        "o-som-da-arena-a-dj-de-pista",
+        "protecao-sob-medida-e-as-ligas-pequenas",
+        "o-olho-nunca-pisca-arbitragem-assistida"
+      ]
+    }
+  ]
+}

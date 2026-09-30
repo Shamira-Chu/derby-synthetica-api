@@ -1,0 +1,30 @@
+# Blueprint do Render.
+#
+# Descreve o serviço inteiro em arquivo, para o deploy não depender de campos
+# digitados à mão no painel. Dá para criar o serviço pelo painel e ignorar este
+# arquivo: nesse caso, os valores daqui são a referência do que preencher.
+#
+# A linha que mais importa é a do startCommand. Sem o `--host 0.0.0.0` o uvicorn
+# escuta só em 127.0.0.1, de dentro do contêiner, e o roteador do Render nunca
+# alcança a aplicação: o deploy fica preso em "no open ports detected" sem que
+# nada apareça errado no log. A porta vem de $PORT, que o Render define e não
+# pode ser fixada em 8000.
+
+services:
+  - type: web
+    name: derby-synthetica-api
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+
+    # A rota raiz responde 200 com um JSON curto, e é ela que o Render usa para
+    # saber se a aplicação subiu.
+    healthCheckPath: /
+
+    envVars:
+      # A URL pública do portal, que entra na lista de origens liberadas do CORS
+      # no startup. `sync: false` faz o Render pedir o valor na criação em vez
+      # de guardá-lo aqui: a URL só existe depois que o frontend é publicado.
+      - key: FRONTEND_URL
+        sync: false

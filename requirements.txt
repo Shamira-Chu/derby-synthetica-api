@@ -1,0 +1,5 @@
+# Versões fixadas para a entrega ser reproduzível.
+# Testadas no Python 3.14 (Windows).
+fastapi==0.141.1
+uvicorn[standard]==0.52.4
+pydantic==2.13.5
