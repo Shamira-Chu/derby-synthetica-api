@@ -41,7 +41,12 @@ app = FastAPI(
 # CORS. Em desenvolvimento o front do Next roda em localhost:3000; no deploy
 # ele ganha uma URL pública, que chega por FRONTEND_URL. Sem isso o navegador
 # bloqueia as respostas e a tela fica vazia sem erro visível no servidor.
-origens_liberadas = ["http://localhost:3000", "http://127.0.0.1:3000"]
+origens_liberadas = [
+    "http://localhost:3000",
+    "http://127.0.0.1:3000",
+    "https://drbey-synthetica-frontend.vercel.app",
+    "https://frontend-three-fawn-51.vercel.app",
+]
 
 _url_do_front = os.getenv("FRONTEND_URL")
 if _url_do_front:
@@ -50,6 +55,7 @@ if _url_do_front:
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origens_liberadas,
+    allow_origin_regex=r"https://.*\.vercel\.app",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
