@@ -27,9 +27,9 @@ interface.
 
 | Serviço | URL |
 |---|---|
-| API (Render) | https://syntheticabackend.onrender.com |
-| Documentação interativa | https://syntheticabackend.onrender.com/docs |
-| Portal (Vercel) | https://frontend-three-fawn-51.vercel.app |
+| API (Render) | https://derby-synthetica-api.onrender.com |
+| Documentação interativa | https://derby-synthetica-api.onrender.com/docs |
+| Portal (Vercel) | https://drbey-synthetica-frontend.vercel.app |
 
 O `/docs` é o caminho mais curto para demonstrar os quatro verbos: ele monta o
 formulário de cada rota sozinho, sem precisar de cliente HTTP.
@@ -162,10 +162,10 @@ O middleware libera, por padrão, `http://localhost:3000` e
 
 No deploy, defina a variável de ambiente **`FRONTEND_URL`** com a URL pública
 do frontend. Ela é acrescentada à lista de origens no startup. No serviço atual
-o valor é `https://frontend-three-fawn-51.vercel.app`:
+o valor é `https://drbey-synthetica-frontend.vercel.app`:
 
 ```bash
-FRONTEND_URL=https://frontend-three-fawn-51.vercel.app uvicorn main:app
+FRONTEND_URL=https://drbey-synthetica-frontend.vercel.app uvicorn main:app
 ```
 
 Sem isso o navegador bloqueia as respostas e a tela fica vazia sem nenhum erro
@@ -181,15 +181,15 @@ Para conferir sem abrir o portal:
 
 ```bash
 curl -s -o /dev/null -D - \
-  -H "Origin: https://frontend-three-fawn-51.vercel.app" \
-  https://syntheticabackend.onrender.com/categorias | grep -i access-control
+  -H "Origin: https://drbey-synthetica-frontend.vercel.app" \
+  https://derby-synthetica-api.onrender.com/categorias | grep -i access-control
 ```
 
 A resposta precisa trazer `access-control-allow-origin` com a URL do portal.
 
 ## Deploy no Render
 
-O serviço está no ar em https://syntheticabackend.onrender.com, criado como Web
+O serviço está no ar em https://derby-synthetica-api.onrender.com, criado como Web
 Service pelo painel, com os valores abaixo. O `render.yaml` na raiz descreve o
 mesmo serviço e serve tanto para recriar por Blueprint quanto como referência do
 que preencher à mão:
@@ -201,7 +201,7 @@ que preencher à mão:
 | Build command | `pip install -r requirements.txt` |
 | Start command | `uvicorn main:app --host 0.0.0.0 --port $PORT` |
 | Health check path | `/` |
-| Variável de ambiente | `FRONTEND_URL` = `https://frontend-three-fawn-51.vercel.app` |
+| Variável de ambiente | `FRONTEND_URL` = `https://drbey-synthetica-frontend.vercel.app` |
 
 ### O start command é a parte que costuma quebrar
 
